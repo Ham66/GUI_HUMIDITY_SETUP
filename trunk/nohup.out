@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "humidity_temperature_control.py", line 14, in <module>
+    from sht75Thread1 import Sht75Thread1
+ImportError: cannot import name Sht75Thread1
